@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /*
 Unweighted Undirected Graph
-The following is a 2D Array implementation of Graph using Adjacency Matrix
+An Adjacency Matrix Array implementation of a Graph 
 Sample Input
 1
 5 5
